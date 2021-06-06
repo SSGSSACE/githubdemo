@@ -6,7 +6,6 @@ int main()
 	scanf("%d", &n);
 	for (int i = 0; i <= n; i++)
 	{
-		printf("haha");
 		s = s + i;
 	}
 	printf("Tong la: %d", s);
