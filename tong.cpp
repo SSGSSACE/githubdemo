@@ -6,10 +6,10 @@ int main()
 	scanf("%d", &n);
 	for (int i = 0; i <= n; i++)
 	{
+		printf("haha");
 		s = s + i;
 	}
 	printf("Tong la: %d", s);
-	printf("Ket thuc roi");
 	printf("Hello");
 	return 0;
 }
