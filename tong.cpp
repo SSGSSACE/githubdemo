@@ -9,6 +9,6 @@ int main()
 		s = s + i;
 	}
 	printf("Tong la: %d", s);
-	printf("Hello");
+	printf("that dai toi");
 	return 0;
 }
